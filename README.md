@@ -149,9 +149,9 @@ technical execution to measurable business results.
 
 ## 📫 Let's Connect
 
-**LinkedIn**:(https://www.linkedin.com/in/andres-m-r)]  
+**LinkedIn**:[[ Connect with me (https://www.linkedin.com/in/andres-m-r)]  
 **Portfolio Website**: mury.digital  
-**Salesforce Trailhead**: [[Your Trailhead Profile URL](https://www.salesforce.com/trailblazer/andresrendon)]  
+**Salesforce Trailhead**: [[Connect with me](https://www.salesforce.com/trailblazer/andresrendon)]  
 **Tableau Public**: [Your Tableau Public Profile URL]
 **Email**: github.blatancy707@passmail.com
 

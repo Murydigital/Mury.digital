@@ -78,8 +78,8 @@ to deliver measurable campaign performance, customer engagement improvements, an
 
 | **Platform** | **Profile Link** | **Focus Areas** |
 |-------------|-----------------|----------------|
-| **Salesforce Trailhead** | [🔗 Trailblazer Profile](your-trailhead-link) | Marketing Cloud, CRM, Data Cloud, Automation |
-| **LinkedIn** | [🔗 LinkedIn Profile](your-linkedin-link) | Professional Network & Portfolio |
+| **Salesforce Trailhead** | [🔗](https://www.salesforce.com/trailblazer/andresrendon) | Marketing Cloud, CRM, Data Cloud, Automation |
+| **LinkedIn** | [🔗](https://www.linkedin.com/in/andres-m-r) | Professional Network & Portfolio |
 | **Tableau Public** | [🔗 Tableau Profile](your-tableau-link) | Data Visualisation Portfolio |
 
 ---

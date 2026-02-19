@@ -37,7 +37,7 @@ to deliver measurable campaign performance, customer engagement improvements, an
 ## 📂 Portfolio Projects
 
 ### 🔵 Salesforce Marketing Cloud & Analytics
-- **[Email Campaign Performance Analysis]((https://github.com/Mury.digital/Email-Campaign-Performance-Analysis))** - Analysed 6 months of campaign data using SQL, Python, and Tableau to identify optimisation opportunities and improve engagement rates by 25% | *SQL, Python, Tableau, Excel*
+- **[Email Campaign Performance Analysis](https://github.com/Murydigital/Email-Campaign-Performance-Analysis)** - Analysed 6 months of campaign data using SQL, Python, and Tableau to identify optimisation opportunities and improve engagement rates by 25% | *SQL, Python, Tableau, Excel*
 - 📋 Journey Builder performance comparison - Automated vs. manual send analysis
 - 📋 A/B testing statistical analysis - Subject lines and send time optimisation
 - 📋 Subscriber engagement scoring model - Predictive engagement analysis

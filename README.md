@@ -1,6 +1,6 @@
 # Mury | CRM & MarTech Consultant: Digital Marketing, Marketing Automation & Data Analytics
 
-Salesforce Marketing Cloud and CRM specialist combining digital marketing strategy with data analytics 
+Salesforce Marketing Cloud and CRM specialist, combining digital marketing strategy with data analytics 
 to deliver measurable campaign performance, customer engagement improvements, and data-driven business insights.
 
 ---
@@ -149,11 +149,11 @@ technical execution to measurable business results.
 
 ## 📫 Let's Connect
 
-**LinkedIn**: [Your LinkedIn Profile URL]  
+**LinkedIn**: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/andres-m-r)]  
 **Portfolio Website**: mury.digital  
-**Salesforce Trailhead**: [Your Trailhead Profile URL]  
+**Salesforce Trailhead**: [[Your Trailhead Profile URL](https://www.salesforce.com/trailblazer/andresrendon)]  
 **Tableau Public**: [Your Tableau Public Profile URL]  
-**Email**: [your.email@domain.com]
+**Email**: [github.blatancy707@passmail.com]
 
 ---
 
